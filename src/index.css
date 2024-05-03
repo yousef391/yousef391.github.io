@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.rounded-image {
+    border-radius: 200px; /* Adjust the radius to control the roundness */
+  }

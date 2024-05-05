@@ -88,7 +88,7 @@ function App() {
               <div className="after:bg-[url('./large-long.png')] after:bg-contain after:block after:bg-no-repeat after:w-[420px] after:h-[320px] after:absolute after:top-0 after:-left-20 sm:after:-left-40 before:bg-[url('./small.png')] before:bg-contain before:block before:bg-no-repeat before:w-[220px] before:h-[220px] before:absolute before:bottom-0 before:-right-10">
                 <img
                   src={Porfile}
-                  className="rounded-image relative z-10 w-[280px] m-auto sm:w-[400px]"
+                  className="rounded-image relative z-10 w-[280px] m-auto sm:w-[600px]"
                 />
               </div>
             </div>
@@ -248,7 +248,7 @@ function App() {
                 </div>
                 <span className="w-[30%] h-2 mt-2 bg-gradient-to-t from-blue-500 to-cyan-500 block rounded-md" />
               </div>
-
+              
             </div>
           </div>
         </section>

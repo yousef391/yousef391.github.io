@@ -167,10 +167,9 @@ function App() {
                     className="flex-1 text-sm py-3 border rounded-full hover:border-blue-500 hover:text-blue-500"
                     onClick={() =>
                       window.open(
-                        "https://github.com/yousef391/Bloodapp",
+                        "https://github.com/yousef391/needyapp",
                         "_blank"
-                      )
-                    }
+                      ) }
                   >
                     Checkout github
                   </button>
